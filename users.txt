@@ -1,0 +1,17 @@
+ariel;00000000;00000000;super;puo psat;+6082199317851
+Ariel Amerigo Joe Banua;ADMIN001;ariel123;admin;Sunflower Hill, Johor;+6082159316754
+juhn;00000001;red;customer;Sunflower Port X, Johor;+60812342378
+huy;00000002;red;customer;Sunflower Mount X, Johor;+60812342365
+Gabriel Wilson;00000003;00000003;customer;Sunflower Hill X, Johor;+60512342312
+HUIY TUI ASD;00000004;00000004;customer;Sunflower Mount X, Johor;+608625442312
+KEVIN HUI;00000005;00000005;customer;Sunflower Hill X, Johor;+60812241312
+OPAH UIY;00000006;00000006;customer;Sunflower Mount X, Johor;+60812345312
+junpei kisa;00000007;00000007;customer;Sunflower Hill X, Johor;+60814342312
+huiyu kalim;00000008;00000008;customer;Sunflower Mount X, Johor;+60852342312
+roih huy;00000009;00000009;customer;Sunflower Hill X, Johor;+60812346312
+tuiyu rek;00000010;000000010;customer;Sunflower Hill X, Johor;+60812642312j
+tuyulo koi;00000011;00000011;customer;Sunflower Mount X, Johor;+60817342312
+finka hui;00000012;00000012;customer;Sunflower Hill X, Johor;+60812372312
+rosa ref;000000013;000000013;customer;Sunflower Mount X, Johor;+608128342312
+kisama huy;00000014;00000014;customer;Sunflower Hill X, Johor;+60812382312
+kamino ogi;00000015;00000015;customer;Sunflower Mount X, Johor;+60812942312

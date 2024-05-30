@@ -1,0 +1,15 @@
+juhn;00000001;customer;savings;1023
+huy;00000002;customer;current;900
+Gabriel Wilson;00000003;customer;savings;150
+HUIY TUI ASD;00000004;00000004;customer;current;800
+KEVIN HUI;00000005;00000005;customer;savings;100
+OPAH UIY;00000006;00000006;customer;current;700
+junpei kisa;00000007;00000007;customer;savings;1500
+huiyu kalim;00000008;00000008;customer;savings;180
+roih huy;00000009;00000009;customer;savings;150
+tuiyu rek;00000010;000000010;customer;current;600
+tuyulo koi;00000011;00000011;customer;savings;450
+finka hui;00000012;00000012;customer;savings;550
+rosa ref;000000013;000000013;customer;savings;250
+kisama huy;00000014;00000014;customer;savings;750
+kamino ogi;00000015;00000015;customer;savings;950
